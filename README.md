@@ -1,2 +1,1 @@
 # java-puzzlers
-java puzzlers
